@@ -343,6 +343,7 @@ h2.news-header{
     background-color: var(--main-color);
     padding: 6px;
     border-radius: 50%;
+    cursor:pointer;
 }
 /* Copyright Section */
 .copyright{
